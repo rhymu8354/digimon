@@ -12,6 +12,11 @@ More information can be found in the [crate documentation][dox].
 
 [dox]: https://docs.rs/digimon
 
+## References
+
+* [DW2 Modding Info (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1UiDU4MsSfxO1vhpK6err1KsLRZM53JUOuYqYhfEFp8o)
+* [Format example (from pastebin)](doc/format_info.txt)
+
 ## License
 
 Licensed under the [MIT license](LICENSE.txt).

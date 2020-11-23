@@ -1,0 +1,263 @@
+(Information below originally obtained from https://pastebin.com/pJSjQrna)
+
+Floor Plan ( 3D environment as it appears to the player)
+88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 00 00 00 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 00 00 00 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 00 00 00 11 11 11 81 88 88 00 00 00 80 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 00 00 00 88 88 88 81 88 88 00 00 00 80 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 00 00 00 88 88 88 11 11 11 00 00 00 80 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 18 88 88 88 88 88 81 88 00 00 00 80 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 18 88 88 88 88 88 81 88 88 88 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 18 88 88 88 88 88 81 88 88 88 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 18 88 88 88 88 88 81 88 88 88 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 08 00 00 80 88 88 88 81 88 88 88 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 08 00 00 80 88 88 88 81 88 88 88 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 08 00 00 80 88 88 88 81 88 88 88 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 08 00 00 10 11 11 11 11 11 11 11 81 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 08 00 00 80 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 08 00 00 80 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88 88
+-------------------------------------
+27 0E 01 22 0D 00 14 0C 00 10 0C 01 11 18 01 FF 00 00 00 00 10 0F 00 10 24 10 00 10 14 19 00 10 FF 00 00 00 11 0D 10 32 26 0D 10 32 13 17 10 32 FF 00 00 00 14 00 00 00 14 06 00 00 28 06 00 00 2C 67 00 00 38 06 00 00
+------------------------------------Breakdown
+27 0E 01 22 0D 00 14 0C 00 10 0C 01 11 18 01 FF <Warps of the domain. 
+27 0E 01 < 27 = XX Cord, 0E = YY cord, 01 = Warp Type
+-Warp types
+00= Where you spawn upon entering this floor layout
+01= Next Floor
+02= Exit Domain
+FF represents end of list
+Note you can have both next floor and exit domain warps in the same layout if you wish to extend to dungeon
+-Chests Types
+10 0F 00 10 24 10 00 10 14 19 00 10 FF
+10 0F 00 10 < 10 = XX Cord, 0F = YY Cord, 00 and 10 represent what's inside the chest as well the spawn rate
+-Trap types
+This domain doesn't have them on this layout for me to reference but here is how they would appear
+10 20 12 22 32 42 00 00
+10 20 12 22 32 42 00 00 < 10 = XX Cord, 20 = YY Cord, 12 = 25% chance for trap to spawn if not 00, 22 = 25% chance for trap to spawn if not 00, 32 = 25% chance for trap to spawn if not 00, 42 = 25% chance for trap to spawn if not 00.
+12 22 32 42 represent the trap type in this example this means we have :
+12 = 25% chance for a Yellow Spore
+22 = 25% chance for a Green Spore
+32 = 25% chance for a Blue Spore
+42 = 25% chance for a Purple Spore
+If we change this to 10 20 12 22 00 42 00 00 for example we now have :
+12 = 25% chance for a Yellow Spore
+22 = 25% chance for a Green Spore
+00 = 25% chance for no trap to occupy the tile
+42 = 25% chance for a Purple Spore
+
+The list of each trap type is as such
+Swamps-
+11=Yellow 
+21=Green 
+31=Blue 
+41=Purple
+51=Red 
+Spores-
+12=Yellow 
+22=Green 
+32=Blue 
+42=Purple
+52=Red
+Rocks-
+13=Yellow 
+23=Green 
+33=Blue 
+43=Purple
+53=Red
+Mines-
+14=Yellow 
+24=Green 
+34=Blue 
+44=Purple
+54=Red
+Bit Bug-
+15=Yellow 
+25=Green 
+35=Blue 
+45=Purple
+55=Red
+Energy Bug-
+16=Yellow 
+26=Green 
+36=Blue 
+46=Purple
+56=Red
+Return Bug-
+17=Yellow 
+27=Green 
+37=Blue 
+47=Purple
+57=Red
+Memory Bug-
+18=Yellow 
+28=Green 
+38=Blue 
+48=Purple
+58=Red
+-Digimon Types
+11 0D 10 32 26 0D 10 32 13 17 10 32 FF
+11 0D 10 32 < 11 = xx Cord, 0D = yy Cord, 10 = Encounter type 1 and chance, 32 = Encounter type 2 and chance
+For encounter types 10~13 is encounter group 1, 20~23 is encounter group 2, 30~33 is encounter group 3, 40~44 is encounter group 4
+To cause a digimon to always spawn match it's encounter group id for example if we want the first encounter to always spawn we take 
+11 0D 10 32 and make it 11 0D 11 11 but if we want encounter 1 and 4 to evenly spawn we use 11 0D 11 44
+
+Note these will always come in these order unless there is 0, or 1 of an object in this case it will push the data to the end of the file.
+--------------
+00 00 00 14 00 00 00 14 06 00 00 28 06 00 00 2C 67 00 00 38 06 00 00
+Pointers to where all the above start
+14 00 = Floor Plan
+14 06 = Warps
+28 06 = Chests
+2C 67 = Traps
+38 06 = Digimon
+
+In this example of SCSI Domain Floor 1 Layout 1 I wrote there is no trap data this is due to there being 0 traps on this layout. In this example you'll need to repoint the trap section to empty space in the sheet for example 2C 67 > 67 CF will probably be correct for this point you can begin adding new traps to your layout.
+
+Floor tiles
+Tiles: Value, Left Tile, Right Tile
+0A Water Tile,Room Tile
+0B Fire Tile,Room Tile
+0C Nature Tile,Room Tile
+0D Machine Tile,Room Tile
+0E Dark Tile,Room Tile
+0F Empty,Room Tile
+00 Room Tile,Room Tile
+01 Corridor Tile,Room Tile
+02 Water Tile,Room Tile
+03 Fire Tile,Room Tile
+04 Nature Tile,Room Tile
+05 Machine Tile,Room Tile
+06 Dark Tile,Room Tile
+07 Room Tile,Room Tile
+08 Empty,Room Tile
+09 Empty,Room Tile
+10 Room Tile,Corridor Tile
+11 Corridor Tile,Corridor Tile
+12 Water Tile,Corridor Tile
+13 Fire Tile,Corridor Tile
+14 Nature Tile,Corridor Tile
+15 Machine Tile,Corridor Tile
+16 Dark Tile,Corridor Tile
+17 Room Tile,Corridor Tile
+18 Empty,Corridor Tile
+19 Empty,Corridor Tile
+1A Water Tile,Corridor Tile
+1B Fire Tile,Corridor Tile
+1C Nature Tile,Corridor Tile
+1D Machine Tile,Corridor Tile
+1E Dark Tile,Corridor Tile
+1F Room Tile,Corridor Tile
+20 Room Tile,Water Tile
+21 Corridor Tile,Water Tile
+22 Water Tile,Water Tile
+23 Fire Tile,Water Tile
+24 Nature Tile,Water Tile
+25 Machine Tile,Water Tile
+26 Dark Tile,Water Tile
+27 Room Tile,Water Tile
+28 Empty,Water Tile
+29 Empty,Water Tile
+2a Water Tile,Water Tile
+2b Fire Tile,Water Tile
+2c Nature Tile,Water Tile
+2d Machine Tile,Water Tile
+2e Dark Tile,Water Tile
+2f Room Tile,Water Tile
+30 Room Tile,Fire Tile
+31 Corridor Tile,Fire Tile
+32 Water Tile,Fire Tile
+33 Fire Tile,Fire Tile
+34 Nature Tile,Fire Tile
+35 Machine Tile,Fire Tile
+36 Dark Tile,Fire Tile
+37 Room Tile,Fire Tile
+38 Empty,Fire Tile
+39 Empty,Fire Tile
+3A Water Tile,Fire Tile
+3B Fire Tile,Fire Tile
+3C Nature Tile,Fire Tile
+3D Machine Tile,Fire Tile
+3E Dark Tile,Fire Tile
+3F Machine Tile,Fire Tile
+40 Room Tile,Nature Tile
+41 Corridor Tile,Nature Tile
+42 Water Tile,Nature Tile
+43 Fire Tile,Nature Tile
+44 Nature Tile,Nature Tile
+45 Machine Tile,Nature Tile
+46 Dark Tile,Nature Tile
+47 Room Tile,Nature Tile
+48 Empty,Nature Tile
+49 Empty,Nature Tile
+4A Water Tile,Nature Tile
+4B Fire Tile,Nature Tile
+4C Nature Tile,Nature Tile
+4D Machine Tile,Nature Tile
+4E Dark Tile,Nature Tile
+4F Room Tile,Nature Tile
+50 Room Tile,Machine Tile
+51 Corridor Tile,Machine Tile
+52 Water Tile,Machine Tile
+53 Fire Tile,Machine Tile
+54 Nature Tile,Machine Tile
+55 Machine Tile,Machine Tile
+56 Dark Tile,Machine Tile
+57 Room Tile,Machine Tile
+58 Empty,Machine Tile
+59 Empty,Machine Tile
+5A Water Tile,Machine Tile
+5B Fire Tile,Machine Tile
+5C Nature Tile,Machine Tile
+5D Machine Tile,Machine Tile
+5E Dark Tile,Machine Tile
+5F Room Tile,Machine Tile
+60 Room Tile,Dark Tile
+61 Corridor Tile,Dark Tile
+62 Water Tile,Dark Tile
+63 Fire Tile,Dark Tile
+64 Nature Tile,Dark Tile
+65 Machine Tile,Dark Tile
+66 Dark Tile,Dark Tile
+67 Room Tile,Dark Tile
+68 Empty,Dark Tile
+69 Empty,Dark Tile
+6A Water Tile,Dark Tile
+6B Fire Tile,Dark Tile
+6C Nature Tile,Dark Tile
+6D Machine Tile,Dark Tile
+6E Dark Tile,Dark Tile
+6F Room Tile,Dark Tile
+70 Room Tile,Room Tile
+71 Corridor Tile,Room Tile
+72 Water Tile,Room Tile
+73 Fire Tile,Room Tile
+74 Nature Tile,Room Tile
+75 Machine Tile,Room Tile
+76 Dark Tile,Room Tile
+77 Room Tile,Room Tile
+78 Empty,Room Tile
+79 Empty,Room Tile
+7A Water Tile,Room Tile
+7B Fire Tile,Room Tile
+7C Nature Tile,Room Tile
+7D Machine Tile,Room Tile
+7E Dark Tile,Room Tile
+7F Room Tile,Room Tile
+80 Room Tile,Empty
+81 Corridor Tile,Empty
+82 Water Tile,Empty
+83 Fire Tile,Empty
+84 Nature Tile,Empty
+85 Machine Tile,Empty
+86 Dark Tile,Empty
+87 Room Tile,Empty
+88 Empty,Empty
+89 Empty,Empty
+8A Water Tile,Empty
+8B Fire Tile,Empty
+8C Nature Tile,Empty
+8D Machine Tile,Empty
+8E Dark Tile,Empty
+8F Room Tile,Empty
+90 Room Tile,Empty
+91 Corridor Tile,Empty
+92 Water Tile,Empty
+93 Fire Tile,Empty
+94 Nature Tile,Empty
+95 Machine Tile,Empty
+96 Dark Tile,Empty
+97 Room Tile,Empty
+98 Empty,Empty
+99 Empty,Empty
+9A Water Tile,Empty
+9B Fire Tile,Empty
+9C Nature Tile,Empty
+9D Machine Tile,Empty
+9E Dark Tile,Empty
+9F Room Tile,Empty
