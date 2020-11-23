@@ -32,7 +32,7 @@ fn parse_ptr(raw: &[u8]) -> anyhow::Result<usize> {
 }
 
 fn parse_list(raw: &[u8]) -> anyhow::Result<&[u8]> {
-    let i = 0;
+    let mut i = 0;
     loop {
         if i >= raw.len() {
             return Err(anyhow!("truncated list"));
@@ -40,6 +40,7 @@ fn parse_list(raw: &[u8]) -> anyhow::Result<&[u8]> {
         if raw[i] == 0xFF {
             break;
         }
+        i += 1;
     }
     Ok(&raw[..i])
 }
